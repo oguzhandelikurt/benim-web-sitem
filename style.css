@@ -3,26 +3,26 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
+  background-color: #070606;
   color: #333;
 }
 
 header {
   background-color: #1e90ff;
-  color: white;
+  color: rgb(7, 6, 6);
   padding: 20px;
   text-align: center;
 }
 
 nav a {
   margin: 0 10px;
-  color: white;
+  color: rgb(7, 6, 6);
   text-decoration: none;
 }
 
 section {
   padding: 20px;
-  background-color: white;
+  background-color: rgb(8, 7, 7);
   margin: 10px;
   border-radius: 8px;
 }
@@ -30,6 +30,6 @@ section {
 footer {
   text-align: center;
   padding: 10px;
-  background-color: #1e90ff;
-  color: white;
+  background-color: #c20808;
+  color: rgb(3, 3, 3);
 }
