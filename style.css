@@ -3,26 +3,26 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #070606;
+  background-color: #f4f4f4; /* Arka plan rengi */
   color: #333;
 }
 
 header {
-  background-color: #1e90ff;
-  color: rgb(7, 6, 6);
+  background-color: #ff6347; /* Kırmızı renk */
+  color: white;
   padding: 20px;
   text-align: center;
 }
 
 nav a {
   margin: 0 10px;
-  color: rgb(7, 6, 6);
+  color: white;
   text-decoration: none;
 }
 
 section {
   padding: 20px;
-  background-color: rgb(8, 7, 7);
+  background-color: #e0e0e0; /* Daha yumuşak bir beyaz ton */
   margin: 10px;
   border-radius: 8px;
 }
@@ -30,6 +30,6 @@ section {
 footer {
   text-align: center;
   padding: 10px;
-  background-color: #c20808;
-  color: rgb(3, 3, 3);
+  background-color: #ff6347; /* Kırmızı renk */
+  color: white;
 }
